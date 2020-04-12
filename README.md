@@ -1,1 +1,6 @@
-# DB-S
+# DB&S
+
+Digitec Project
+
+- SQLite Database
+- Python
